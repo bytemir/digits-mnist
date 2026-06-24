@@ -1,0 +1,3 @@
+/home/emir/Desktop/digits-mnist/build/CMakeFiles/digits-mnist.dir
+/home/emir/Desktop/digits-mnist/build/CMakeFiles/edit_cache.dir
+/home/emir/Desktop/digits-mnist/build/CMakeFiles/rebuild_cache.dir
